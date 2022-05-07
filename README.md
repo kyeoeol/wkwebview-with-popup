@@ -75,3 +75,4 @@ func webView(_ webView: WKWebView, createWebViewWith configuration: WKWebViewCon
     return createNewWebView(configuration)
 }
 ```
+
